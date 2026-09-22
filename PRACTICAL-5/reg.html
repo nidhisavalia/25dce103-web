@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration</title>
+    <link rel="stylesheet" href="reg.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h2>Student Registration</h2>
+
+    <form id="registerForm">
+
+        <label>Full Name</label>
+        <input type="text" id="name">
+        <p id="nameError"></p>
+
+        <label>Email</label>
+        <input type="text" id="email">
+        <p id="emailError"></p>
+
+        <label>Password</label>
+        <input type="password" id="password">
+        <button type="button" onclick="showPassword()">Show Password</button>
+        <p id="passwordError"></p>
+
+        <label>Mobile Number</label>
+        <input type="text" id="mobile">
+        <p id="mobileError"></p>
+
+        <label>Course</label>
+        <input type="text" id="course">
+        <p id="courseError"></p>
+
+        <button type="submit">Register</button>
+
+    </form>
+
+</div>
+
+<script src="reg.js"></script>
+
+</body>
+</html>
