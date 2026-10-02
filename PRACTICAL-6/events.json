@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Tech Fest 2026",
+        "date": "20 August 2026",
+        "venue": "College Auditorium",
+        "description": "Technical events, coding competitions and project exhibition."
+    },
+    {
+        "name": "Sports Day",
+        "date": "5 September 2026",
+        "venue": "College Ground",
+        "description": "Various indoor and outdoor sports competitions."
+    },
+    {
+        "name": "Cultural Night",
+        "date": "18 October 2026",
+        "venue": "Open Stage",
+        "description": "Music, dance, drama and cultural performances."
+    },
+    {
+        "name": "Placement Workshop",
+        "date": "10 November 2026",
+        "venue": "Seminar Hall",
+        "description": "Career guidance and placement preparation workshop."
+    }
+]
